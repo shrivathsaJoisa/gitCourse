@@ -2,3 +2,5 @@ Hello world
 Take input form user and add the values
 Submit data to datafiles.
 This line is added after tagging v1.0
+
+create an avatar for user
